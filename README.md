@@ -16,18 +16,18 @@ This is a Spring Boot backend service for managing products, designed to work se
 
 ## 📁 Folder Structure
 
-src/
-├── main/
-│ ├── java/
-│ │ └── com/example/productapi/
-│ │ ├── controller/
-│ │ ├── model/
-│ │ ├── repository/
-│ │ └── ProductApiApplication.java
-│ └── resources/
-│ ├── application.properties
-│ └── data.sql (optional)
-pom.xml
+src/ </br>
+├── main/</br>
+│ ├── java/</br>
+│ │ └── com/example/productapi/</br>
+│ │ ├── controller/</br>
+│ │ ├── model/</br>
+│ │ ├── repository/</br>
+│ │ └── ProductApiApplication.java</br>
+│ └── resources/</br>
+│ ├── application.properties</br>
+│ └── data.sql (optional)</br>
+pom.xml</br>
 
 
 
