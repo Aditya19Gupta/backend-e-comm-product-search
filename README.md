@@ -63,4 +63,3 @@ GET http://localhost:8181/products
 
 ---
 
-Let me know if you also want a `data.sql` file to pre-load some products into H2 on app start.
